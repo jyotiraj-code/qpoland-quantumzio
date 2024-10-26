@@ -1,0 +1,3 @@
+remove,id,airport,start,finish,capacity,type,misuse_penalty
+False,212,CFE,2008-03-01T08:00,2008-03-01T09:00,5,Adjustment,0
+True,216,CFE,2008-03-01T12:00,2008-03-01T13:00,0,Removal,0

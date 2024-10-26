@@ -1,0 +1,6 @@
+id,position,base,acclimatization,duty_time_limit,flight_time_limit,earliest_start_duty,cpm_deadhead,is_reserve,cpm_reserve,specs
+623057530,CDG,CDG,CDG,610,480,2006-01-07T05:20,25,0,0,Airbus
+376980210,TLS,TLS,TLS,600,480,2006-01-07T05:40,20,0,0,Airbus
+1878748607,TLS,CDG,TLS,600,480,2006-01-07T13:40,24,0,0,Airbus
+1587173014,CDG,ORY,CDG,600,480,2006-01-07T16:25,21,0,0,Airbus
+1827753950,TLS,ORY,TLS,600,480,2006-01-07T17:40,20,0,0,Airbus

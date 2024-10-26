@@ -1,0 +1,5 @@
+airport,delay_threshold,value
+CDG,30,50
+NCE,40,45
+ORY,30,30
+TLS,40,50

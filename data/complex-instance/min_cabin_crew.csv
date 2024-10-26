@@ -1,0 +1,17 @@
+family,role,max_pax,min_crew
+AirbusSmall,CSD,100,1
+AirbusSmall,ST,100,3
+BAE,CS,100,1
+BAE,ST,100,3
+Fokker,CSD,100,1
+Fokker,ST,100,3
+AirbusBig,CS,100,1
+AirbusBig,ST,100,2
+ERJ,CSD,100,1
+ERJ,ST,100,2
+CRJ,CS,100,1
+CRJ,ST,100,2
+BoeingSmall,CS,100,1
+BoeingSmall,ST,100,3
+BoeingBig,CS,100,1
+BoeingBig,ST,100,3

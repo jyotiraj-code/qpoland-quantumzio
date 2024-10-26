@@ -1,0 +1,5 @@
+code,req_visa,slotted,hotel_cost,cppax_takeoff,cpT_landing,cpTpd_landing,service_start,service_finish,latitude,longitude
+CDG,0,1,97,88,103,0,00:00,23:59,2.55,49.012798
+NCE,0,0,88,66,108,0,05:00,22:59,7.215869903560001,43.6584014893
+ORY,0,1,110,117,109,0,00:00,23:59,2.3794444,48.7233333
+TLS,1,1,75,100,66,0,05:00,22:59,1.36382,43.629101
